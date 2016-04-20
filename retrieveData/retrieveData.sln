@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "retrieveData", "retrieveData\retrieveData.vbproj", "{D3FCD1E8-F432-4AA1-B040-5DE0E9BE12FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FCD1E8-F432-4AA1-B040-5DE0E9BE12FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FCD1E8-F432-4AA1-B040-5DE0E9BE12FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FCD1E8-F432-4AA1-B040-5DE0E9BE12FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FCD1E8-F432-4AA1-B040-5DE0E9BE12FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
